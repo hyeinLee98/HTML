@@ -1,0 +1,18 @@
+.tit {
+  font-size: 30px;
+  padding : 20px;
+}
+.sec_tit {
+  font-size : 20px;
+  margin : 15px;
+}
+pre {
+  font-size: 15px;
+  padding : 20px;
+  background-color: lightgray;
+  font-family: 'Jua', sans-serif;
+}
+body {
+  background-color: lightgray;
+  font-family: 'Jua', sans-serif;
+}
